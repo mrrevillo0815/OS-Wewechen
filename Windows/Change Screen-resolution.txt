@@ -1,0 +1,2 @@
+//download the exe from http://tools.taubenkorb.at/change-screen-resolution/
+%~dp0ChangeScreenResolution.exe /w=3840 /h=2160 /d=1

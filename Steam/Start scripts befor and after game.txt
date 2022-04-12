@@ -1,0 +1,3 @@
+Open Launch options, then just do it like so:
+--DO SOMETHING-- & %command% && --DO SOMETHING--
+Note: On different OS, you might want to replace the seperators & &&
